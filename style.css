@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+
+}
+h2,h3,h4,h5,h6{
+    margin-top: 1rem;
+    padding: 0 1rem;
+    font-size: 2rem;
+    color: cadetblue;
+}
+
+p{
+    margin-top: 1rem;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+}
